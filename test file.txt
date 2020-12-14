@@ -1,2 +1,2 @@
-some random text (feature1 branch edit)
+some random text (feature1 branch edit, manually written master branch text)
 second line
